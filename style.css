@@ -82,6 +82,8 @@ nav a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.562),rgba(4,9,30,0.6)),url(images/web.jpg);
+    flex-direction: column;
     flex-direction: column;
     gap: 40px;
     h1 {
