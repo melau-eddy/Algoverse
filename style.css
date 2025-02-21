@@ -657,6 +657,7 @@ button:hover {
         opacity: 1;
     }
 }
+<<<<<<< HEAD
 /*project.html*/
 .projects .main-text{
     margin-left:auto ;
@@ -786,6 +787,8 @@ text-align: center;
 
 /*projects.html*/
 
+=======
+>>>>>>> 00a369b6e74c53d183de3376a7ecaa5dd36341a6
 
 @keyframes slide-left {
     0% {
