@@ -32,7 +32,7 @@ const HrServices = () => {
     {
       title: "Executive Search",
       description:
-        "At AlphaTrixx, we excel in executive search services, dedicated to identifying and attracting top-tier talent for your organization...",
+        "At Algoverse, we excel in executive search services, dedicated to identifying and attracting top-tier talent for your organization...",
       image: executiveSearchImage,
     },
     {
